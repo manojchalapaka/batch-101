@@ -1,3 +1,7 @@
-1.Work station.----->>>>>>>>>>>>>>>>>>>>>>>Here we have new data or modified existing data  .
-2.Staging/intermediate/index.---->>>>>>>>>>Authore name, mail id , date ,time all details Capturing here.
-3.local repositry.----->>>>>>>>>>>>>>>>>>>>Data get passed to Git hub repositry.
+Work station.----->>>>>>>>>>>>>>>>>>>>>>>Here we have new data or modified existing data  .
+Staging/intermediate/index.---->>>>>>>>>>Authore name, mail id , date ,time all details Capturing here.
+local repositry.----->>>>>>>>>>>>>>>>>>>>Data get passed to Git hub repositry.
+matrix based security ---->>>>>> giving permissions to users.
+project based security ----->>>>>>Tag specific user to specific job access then allocate
+Role based security------>>>>>>> creating group and give permission access to group then add customers to respective groups.
+
