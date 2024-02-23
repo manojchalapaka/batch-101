@@ -1,2 +1,5 @@
-Hi 
-mf2 created
+git pull --rebase -------->>>>> if git repo changes are not there in our local machine.
+
+git Clone -------->>>>> from  git repo to local machine 
+git push -------->>>>> from  local machine to git repo 
+git Pull -------->>>>> from  git repo to local machine
