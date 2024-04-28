@@ -5,8 +5,18 @@ git push -------->>>>> from  local machine to git repo
 git Pull -------->>>>> from  git repo to local machine
 
 How to delete directory :
+
 rm -rf dir1
 git add .
 git commit -m "sample commit"
 git log
 git push
+
+How to delete file :
+
+rm -rf file1
+git add .
+git commoit -m "sample commit"
+git log
+git push
+
