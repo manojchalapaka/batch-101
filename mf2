@@ -12,6 +12,16 @@ git commit -m "sample commit"
 git log
 git push
 
+
 merge vs Rebase :
+
+
+How to delete file :
+
+rm -rf file1
+git add .
+git commoit -m "sample commit"
+git log
+git push
 
 
